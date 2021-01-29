@@ -1,0 +1,5 @@
+apiVersion: v2
+name: counter
+description: Simple Example App for Kubernetes
+type: application
+version: 2021.01.29
